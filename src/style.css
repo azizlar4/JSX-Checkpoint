@@ -1,0 +1,10 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+*{
+    background-color: rgb(160, 160, 160);
+}
+img:hover{  -moz-box-shadow: 0 0 100px #ccc;
+            -webkit-box-shadow: 0 0 100px #ccc;
+             box-shadow: 0 0 100px #ccc;}
